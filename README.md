@@ -4,3 +4,5 @@ Authentication using mongo-passport, with passwords hashed and salted, Google OA
 
 Login by creating a new account or use Google Login , read Secrets and if you want you can write your own as well.
 Your Secret will be Totally Anonymous.
+
+View it Live : http://whispering-waters-32555.herokuapp.com/
