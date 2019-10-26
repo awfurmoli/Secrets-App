@@ -9,7 +9,7 @@ const md5 = require("md5");
 
 const app = express();
 mongoose.connect(
-  "mongodb+srv://awfurmoli:JQLnYOyLQJWklSNC@cluster0-n5lre.mongodb.net/sercretsDB"
+  
 );
 
 app.set("view engine", "ejs");
